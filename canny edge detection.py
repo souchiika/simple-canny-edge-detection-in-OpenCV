@@ -1,6 +1,6 @@
-import cv2 #ext library
+import cv2 
 
-cv2.namedWindow('window') #plop UI
+cv2.namedWindow('window') 
 
 def nothing(x):
     pass
